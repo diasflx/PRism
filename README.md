@@ -258,3 +258,7 @@ Built as a co-op portfolio project to demonstrate:
 - [GitHub](https://github.com) for the GitHub API
 - [Vercel](https://vercel.com) for Next.js and hosting
 - [shadcn/ui](https://ui.shadcn.com/) for beautiful UI components
+
+---
+
+**Live Demo**: [prism.vercel.app](https://p-rism.vercel.app)
