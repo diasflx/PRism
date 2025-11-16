@@ -4,6 +4,8 @@ An intelligent, production-ready code review assistant powered by Claude AI that
 
 > **PRism** - _Pull Request Intelligent Security & Metrics_ - Shine a light on your code quality.
 
+## 🚀 [**Live Demo**](https://p-rism-8gp2fryzd-said-jafarovs-projects.vercel.app)
+
 ![PRism](https://img.shields.io/badge/PRism-AI%20Code%20Review-6366f1)
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
