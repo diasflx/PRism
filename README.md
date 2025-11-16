@@ -1,8 +1,10 @@
-# AI Code Reviewer
+# PRism
 
 An intelligent, production-ready code review assistant powered by Claude AI that analyzes GitHub pull requests and provides comprehensive feedback on code quality, security, performance, and best practices.
 
-![AI Code Reviewer](https://img.shields.io/badge/AI-Code%20Reviewer-blue)
+> **PRism** - _Pull Request Intelligent Security & Metrics_ - Shine a light on your code quality.
+
+![PRism](https://img.shields.io/badge/PRism-AI%20Code%20Review-6366f1)
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -54,7 +56,7 @@ An intelligent, production-ready code review assistant powered by Claude AI that
 ## Project Architecture
 
 ```
-ai-code-reviewer/
+prism/
 ├── app/
 │   ├── api/
 │   │   └── analyze-pr/
@@ -86,7 +88,7 @@ ai-code-reviewer/
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd ai-code-reviewer
+cd prism
 ```
 
 2. Install dependencies:

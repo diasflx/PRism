@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Code Reviewer - Powered by Claude AI",
-  description: "Get comprehensive, AI-powered code reviews for your GitHub pull requests. Identify bugs, security issues, and performance improvements instantly with Claude AI.",
+  title: "PRism - AI-Powered Code Review",
+  description: "PRism analyzes GitHub pull requests with Claude AI to identify bugs, security issues, and performance improvements. Pull Request Intelligent Security & Metrics.",
 };
 
 export default function RootLayout({
