@@ -1,7 +1,0 @@
-{
-  "buildCommand": "npm run build",
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic-api-key",
-    "GITHUB_TOKEN": "@github-token"
-  }
-}
