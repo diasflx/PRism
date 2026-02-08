@@ -4,7 +4,7 @@ An intelligent, production-ready code review assistant powered by Claude AI that
 
 > **PRism** - _Pull Request Intelligent Security & Metrics_ - Shine a light on your code quality.
 
-## 🚀 [**Live Demo**](https://p-rism-8gp2fryzd-said-jafarovs-projects.vercel.app)
+## [**Live Demo**](https://p-rism-8gp2fryzd-said-jafarovs-projects.vercel.app)
 
 ![PRism](https://img.shields.io/badge/PRism-AI%20Code%20Review-6366f1)
 ![Next.js](https://img.shields.io/badge/Next.js-14+-black)
@@ -34,12 +34,12 @@ An intelligent, production-ready code review assistant powered by Claude AI that
   - How to implement
   - Expected impact metrics
 
-### 📊 **Code Metrics Dashboard**
+###  **Code Metrics Dashboard**
 - Complexity Score (1-10)
 - Technical Debt indicator (Low/Medium/High)
 - Risk Score percentage (0-100%)
 
-### 🎨 **Modern UX Features**
+###  **Modern UX Features**
 - **Dynamic Progress Tracking**: 8-step analysis progress with real-time updates
 - **Analysis History**: Persistent history with individual delete options (saves last 10)
 - **Dark Mode**: Full dark mode support with localStorage persistence
